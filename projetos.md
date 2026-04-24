@@ -9,6 +9,7 @@ title: Projetos
 
 Eu desenvolvi esses projetos entre o fim da graduação e a entrada no mestrado. Nesse tempo, um jovem e animado estatístico achou que se construísse portfólio isso evitaria ele de precisar fazer testes durante processos seletivos.
 
+Os códigos, a apresentação visual e o _storytelling_ não são dos melhores e refletem o meu nível de senioridade na época, mas foram legais de fazer.
 
 | Projeto | Descrição |
 | :--- | :--- |
