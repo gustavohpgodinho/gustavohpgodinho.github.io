@@ -2,8 +2,5 @@ theme: jekyll-theme-minimal
 title: Gustavo Godinho
 description: Site para portfólio e guardar pensamentos sobre projetos e a vida profissional.
 
-# Adiciona sua foto na esquerda
-logo: /foto.jpg
-
 github_username: gustavohpgodinho
 linkedin_username: gustavo-godinho-0b90aa141
